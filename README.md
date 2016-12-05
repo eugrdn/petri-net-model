@@ -20,4 +20,4 @@ npm start
 
 ###Preview:
 
-![preview-gif](https://github.com/rodinwow/screenshots/blob/master/petri-net-model.png)
+![preview-png](https://github.com/rodinwow/screenshots/blob/master/petri-net-model.png)
