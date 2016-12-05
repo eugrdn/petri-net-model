@@ -14,7 +14,6 @@ Used:
 git clone https://github.com/rodinwow/petri-net-model.git
 cd petri-net-model
 npm install
-gulp
 npm start
 ```
 
